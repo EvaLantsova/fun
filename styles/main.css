@@ -1,0 +1,19 @@
+@import "reset.css";
+@import "fonts.css";
+
+
+
+html {
+  font-size: 4px;
+}
+
+body {
+  background-color: #FFDFEE;
+  font-family: 'DrukTextWide', sans-serif;
+  overflow: hidden;
+}
+
+h3 {
+  font-size: 4rem;
+  color: #8070F7;
+}
